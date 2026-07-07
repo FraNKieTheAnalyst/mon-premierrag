@@ -1,0 +1,7 @@
+ChromaDB est une base de données vectorielle open source.
+Elle permet de stocker des embeddings et de faire de la recherche par similarité.
+
+Un système RAG combine une base documentaire avec un modèle de langage.
+Les embeddings transforment les textes en vecteurs numériques.
+
+Sentence Transformers permet de créer des représentations vectorielles des documents.
