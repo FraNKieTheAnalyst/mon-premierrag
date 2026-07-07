@@ -1,7 +1,9 @@
-ChromaDB est une base de données vectorielle open source.
-Elle permet de stocker des embeddings et de faire de la recherche par similarité.
+Le chat bleu de Bob s'appelle Henri.
 
-Un système RAG combine une base documentaire avec un modèle de langage.
-Les embeddings transforment les textes en vecteurs numériques.
+Le chien rouge d'Alice s'appelle Max.
 
-Sentence Transformers permet de créer des représentations vectorielles des documents.
+La tortue verte de Paul vit dans un jardin.
+
+Le poisson jaune de Marie nage dans un aquarium.
+
+La voiture noire de Sophie est une Peugeot.
